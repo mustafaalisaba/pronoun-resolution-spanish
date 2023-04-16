@@ -1,0 +1,6 @@
+huggingface_hub
+datasets
+transformers
+transformers[torch]
+bertviz
+nltk
